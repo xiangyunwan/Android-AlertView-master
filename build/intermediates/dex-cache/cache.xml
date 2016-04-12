@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\android_github\Android-AlertView-master\app\build\intermediates\exploded-aar\com.bigkoo\alertview\1.0.1\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="d052999670bf565b35b4c8aa490cc2a858d338cf">
+        <dex dex="D:\android_github\Android-AlertView-master\app\build\intermediates\pre-dexed\debug\classes-6811eddb94e5703e8566a7559a36a178f076eb6f.jar" />
+    </item>
+    <item
+        jar="F:\JavaIDE\android_sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="D:\android_github\Android-AlertView-master\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-458bdc61b14f9a8c6f445996d1cae5539e85335d.jar" />
+    </item>
+    <item
+        jar="D:\android_github\Android-AlertView-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="D:\android_github\Android-AlertView-master\app\build\intermediates\pre-dexed\debug\classes-2a04072b504339fc88d62e5cbbcfb699601bb172.jar" />
+    </item>
+    <item
+        jar="D:\android_github\Android-AlertView-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="D:\android_github\Android-AlertView-master\app\build\intermediates\pre-dexed\debug\classes-18714ada311c71f87be62313c0f5a9fe5c0766a0.jar" />
+    </item>
+    <item
+        jar="D:\android_github\Android-AlertView-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="D:\android_github\Android-AlertView-master\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-0ad1722b7e13066cea7be50ae9cdfd4aae174428.jar" />
+    </item>
+
+</items>
